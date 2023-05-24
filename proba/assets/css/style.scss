@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ header{
+    width: 100%;
+    background-color: yellow;
+    #center{
+        background-color: blue;
+        width: 80%;
+        margin: 0px auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        color: white;
+        .logo{
+            width: 15%;
+        }
+        .navigation{
+            width: 40%;
+            nav{
+                ul{
+                    display: flex;
+                    justify-content: end;
+                    li{
+                        display: inline;
+                        margin-left: 50px;
+                        a{
+                            color: white;
+                        }
+                    }
+                }
+            }
+        }
+    }
+ }

@@ -1,0 +1,35 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  width: 100%;
+  background-color: yellow;
+}
+header #center {
+  background-color: blue;
+  width: 80%;
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+header #center .logo {
+  width: 15%;
+}
+header #center .navigation {
+  width: 40%;
+}
+header #center .navigation nav ul {
+  display: flex;
+  justify-content: end;
+}
+header #center .navigation nav ul li {
+  display: inline;
+  margin-left: 50px;
+}
+header #center .navigation nav ul li a {
+  color: white;
+}/*# sourceMappingURL=style.css.map */
