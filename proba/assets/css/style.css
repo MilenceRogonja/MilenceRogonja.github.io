@@ -5,10 +5,10 @@
 
 header {
   width: 100%;
-  background-color: green;
+  background-color: orange;
 }
 header #center {
-  background-color: blue;
+  background-color: red;
   width: 80%;
   margin: 0px auto;
   display: flex;
