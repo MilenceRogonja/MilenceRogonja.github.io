@@ -32,4 +32,8 @@ header #center .navigation nav ul li {
 }
 header #center .navigation nav ul li a {
   color: white;
+}
+
+h1 {
+  font-size: 100px;
 }/*# sourceMappingURL=style.css.map */
